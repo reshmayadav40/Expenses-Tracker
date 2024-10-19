@@ -136,7 +136,7 @@ th, td {
 }
 
 #add-btn:hover, .clearall button:hover {
-    background-color: rgb(178, 162, 162);
+    background-color: white;
 }
 
 @media (max-width: 600px) {
